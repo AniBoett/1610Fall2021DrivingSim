@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9cfbddea-0068-4047-985e-dc671c24cc4f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FollowPlayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FollowPlayer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PlayerController.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1634665602449</updated>
-      <workItem from="1634665625142" duration="3284000" />
+      <workItem from="1634665625142" duration="5429000" />
     </task>
     <servers />
   </component>
